@@ -3,7 +3,7 @@
 
 ## TODO MP:
 
-- [ ] write down who rules 
+- [x] write down who rules 
 
 ## TODO BP:
 - [x] prepare hello world script
