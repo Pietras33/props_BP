@@ -7,3 +7,4 @@
 
 ## TODO BP:
 - [x] prepare hello world script
+- [x] add the name script
